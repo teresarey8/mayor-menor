@@ -8,7 +8,7 @@ else if (num1<num2){
     alert(num2 + "es mayor")
 }
 else if(num1==num2){
-    alert(num1+num2 "son iguales")
+    alert(num1+num2 + "son iguales")
 }
 if (num2 % 2 == 0){
     alert(num2 +" es par")
